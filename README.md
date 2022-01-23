@@ -5,6 +5,8 @@ Course: https://www.coursera.org/specializations/deep-learning
 
 Sundays at 11am
 
+Use github issues if we have any questions that are more involved than asking the group chat
+
 Meeting objectives
 - show up with videos watched
 - potential questions about the material
@@ -16,10 +18,13 @@ week 1 01/23
 - finish week 2 videos
 
 week 2 01/30
-- homework for week 1, 2 done, posted in this github repo
+- videos for week 2 done
+- homework for week 2 attemped, posted in this github repo
 
 week 3 02/06
-- homework for week 3 done
+- videos for week 3 done
+- homework for week 3 attempted
 
 week 4 02/13
-- homework for week 4 done
+- videos for week 4 done
+- homework for week 4 attempted
