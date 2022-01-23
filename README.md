@@ -13,7 +13,7 @@ week 1 01/23
 - finish week 2 videos
 
 week 2 01/30
-- homework for week 2 done, posted in this github repo
+- homework for week 1, 2 done, posted in this github repo
 
 week 3 02/06
 - homework for week 3 done
