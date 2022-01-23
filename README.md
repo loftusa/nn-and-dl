@@ -1,7 +1,9 @@
 # nn-and-dl
 Neural Networks and Deep Learning course -- coursera
+
 Course: https://www.coursera.org/specializations/deep-learning
-sundays at 11am
+
+Sundays at 11am
 
 Meeting objectives
 - show up with videos watched
