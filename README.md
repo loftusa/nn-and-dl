@@ -1,7 +1,8 @@
 # nn-and-dl
 Neural Networks and Deep Learning course -- coursera
 
-Course: https://www.coursera.org/specializations/deep-learning
+Course: https://www.coursera.org/specializations/deep-learning  
+github with course data: https://github.com/knazeri/coursera  
 
 Sundays at 11am
 
