@@ -22,7 +22,7 @@ week 2 01/30
 - videos for week 2 done
 - homework for week 2 attemped, posted in this github repo
 
--Suggestion from Madi: Go over Univesal approximation theorem: http://neuralnetworksanddeeplearning.com/chap4.html
+- Suggestion from Madi: Go over Univesal approximation theorem: http://neuralnetworksanddeeplearning.com/chap4.html
 
 week 3 02/06
 - videos for week 3 done
